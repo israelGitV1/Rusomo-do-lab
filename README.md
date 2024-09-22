@@ -7,7 +7,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Configuração de idioma.
   - Configuração de temas.
   - Configuração de exibiçaõ de tela.
-* [Benefícios Nuvem](https://github.com/israelGitV1/Rusomo-do-lab/blob/main/resumo-Beneficios.md)
+* [Benefícios Nuvem](https://github.com/israelGitV1/Rusomo-do-lab/blob/main/Resumo-Beneficios.md)
 * Overview principais serviços.
   - Computação
      - Area de trabalho Azure.
