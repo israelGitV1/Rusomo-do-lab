@@ -24,4 +24,4 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
      - ...  
 ## [Benefícios Nuvem](https://github.com/israelGitV1/Rusomo-do-lab/blob/main/Resumo-Beneficios.md)
 ## [Overview principais serviços](https://github.com/israelGitV1/Rusomo-do-lab/blob/main/Resumo-TipoDeServiços.md)
-## [Principais Componentes e Arquiterura](https://github.com/israelGitV1/Rusomo-do-lab/blob/main/Resumo-PrincipaisComponentesEArquitetura.md)
+## [Principais Componentes e Arquitetura](https://github.com/israelGitV1/Rusomo-do-lab/blob/main/Resumo-PrincipaisComponentesEArquitetura.md)
