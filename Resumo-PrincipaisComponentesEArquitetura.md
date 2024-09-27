@@ -1,4 +1,4 @@
-# Principais Componentes e Arquiterura
+# Principais Componentes e Arquitetura
 
 ## Regiões
 - Pares
