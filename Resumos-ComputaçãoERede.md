@@ -55,3 +55,14 @@
  - A rede virtual do Azure dá suporte a pontos de extremidade públicos e privados
      - Pontos de extremidade públicos têm um endereço IP público e podem ser acessados de qualquer lugar do mundo.
      - Pontos de extremidade privados existem em uma rede virtual e têm um endereço IP privado dentro do espaço de endereço dessa rede virtual.
+ - Gateray de VPN
+     - Tráfego criptografado entre redes vituais
+ - ExpressRoute
+     - Estenda suas redes locais para a nuvem da Microsoft (cabo fisico)
+ - DNS do Azure
+     - Serviço de hospedagem para domínios DNS
+       - Confiabilidade e desempenho
+       - Segurança
+       - Facilidade de uso
+       - Personalizar redes virtuais
+       - Registros de alias
